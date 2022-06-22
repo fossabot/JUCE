@@ -1,4 +1,5 @@
 ![alt text](https://assets.juce.com/juce/JUCE_banner_github.png "JUCE")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fusmankhanisb%2FJUCE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fusmankhanisb%2FJUCE?ref=badge_shield)
 
 JUCE is an open-source cross-platform C++ application framework for creating high quality
 desktop and mobile applications, including VST, VST3, AU, AUv3 and AAX audio plug-ins.
@@ -89,3 +90,6 @@ There are multiple commercial licensing tiers for JUCE, with different terms for
 - JUCE Educational (no revenue limit) - free for bona fide educational institutes
 
 For full terms see [LICENSE.md](LICENSE.md).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fusmankhanisb%2FJUCE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fusmankhanisb%2FJUCE?ref=badge_large)
